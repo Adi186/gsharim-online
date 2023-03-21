@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+  direction:  rtl;
+}
+
+.App *{
+  text-decoration: none;
+  color: black;
+}
+
+.App-header {
+  background-color: #A7D7C5;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.nav-bar {
+  text-decoration: none;
+  color: black;
+}
+
+ul{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  list-style-type: none;
+  background-color: #A7D7C5;  
+  height: 5vh;
+  margin: 0;
+  padding: 0;
+}
+ul :hover{
+  background-color: #C1E3D6
+}
+
+li {
+  height: auto;
+  align-items: center;
+  padding: 1vh;
+}
