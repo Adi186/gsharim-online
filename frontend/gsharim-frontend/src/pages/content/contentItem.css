@@ -1,0 +1,13 @@
+.content-item {
+    border: 3px solid #A7D7C5;
+    border-radius: 10px;
+    margin: 5px;
+    height: fit-content;
+    padding: 30px;
+}
+
+.open-content-button {
+    background-color:  #A7D7C5;
+    border-radius: 10px;
+    padding: 0 5px;
+}

@@ -1,0 +1,266 @@
+{
+    "subjects": [{
+                    "subject": ["Python", "Programming"],
+                    "type": "Course",
+                    "link": "https://campus.gov.il/course/cs-gov-pythonselfpy101-he",
+                    "title": "תכנות בפייתון למתחילים",
+                    "level": "basic",
+                    "language": "Hebrew"
+                },
+                {
+                    "subject": ["Python", "Programming"],
+                    "type": "Course",
+                    "link": "https://campus.gov.il/course/cs-gov-cs-nextpy102",
+                    "title": "תכנות בפייתון למתקדמים",
+                    "level": "hard",
+                    "language": "Hebrew"
+                },
+                {
+                    "subject": ["Python", "Networs", "Programming"],
+                    "type": "Course",
+                    "link": "https://campus.gov.il/course/cs-gov-cs-networkpy103",
+                    "title": "תכנות רשתות ותקשורת בפייתון",
+                    "level": "hard",
+                    "language": "Hebrew"
+                },
+                {
+                    "subject": ["Networks"], 
+                    "type": "Course",
+                    "link": "https://campus.gov.il/course/cs-gov-cs-reshatot101",
+                    "title": "רשתות למתחילים",
+                    "level": "basic",
+                    "language": "Hebrew"
+                },
+                {
+                    "subject": ["Networks", "Security"], 
+                    "type": "Course",
+                    "link": "https://campus.gov.il/course/cs-gov-cs-websec",
+                    "title": "אבטחת אתרים ברשת",
+                    "level": "hard",
+                    "language": "Hebrew"
+                },
+                {
+                    "subject": ["Programming", "Python", "Data"], 
+                    "type": "Course",
+                    "link": "https://campus.gov.il/course/cs-gov-cs-data-dataintro101-he",
+                    "title": "ניתוח נתונים בפייתון",
+                    "level": "hard",
+                    "language": "Hebrew"
+                },
+                {
+                    "subject": ["Programming", "C++"], 
+                    "type": "Course",
+                    "link": "https://campus.gov.il/course/basmach-gov-cplusplusintroduction-he",
+                    "title": "מבוא לתכנות בשפת C++",
+                    "level": "basic",
+                    "language": "Hebrew"
+                },
+                {
+                    "subject": ["Programming", "Python"], 
+                    "type": "Course",
+                    "link": "https://www.codecademy.com/learn/learn-python-3",
+                    "title": "תכנות בפייתון למתחילים",
+                    "level": "basic",
+                    "language": "English"
+                },
+                {
+                    "subject": ["Programming", "C"], 
+                    "type": "Course",
+                    "link": "https://www.codecademy.com/learn/learn-c",
+                    "title": "תכנות בשפת C למתחילים",
+                    "level": "basic",
+                    "language": "English"
+                },
+                {
+                    "subject": ["Networks", "Security"], 
+                    "type": "Course",
+                    "link": "https://www.codecademy.com/learn/introduction-to-cybersecurity",
+                    "title": "אבטחה ברשת",
+                    "level": "basic",
+                    "language": "English"
+                },
+                {
+                    "subject": ["Web", "Programming"], 
+                    "type": "Course",
+                    "link": "https://www.codecademy.com/learn/learn-html",
+                    "title": "כתיבת אתרים למתחילים בHTML",
+                    "level": "basic",
+                    "language": "English"
+                },
+                {
+                    "subject": ["Programming", "Java"], 
+                    "type": "Course",
+                    "link": "https://www.codecademy.com/learn/learn-java",
+                    "title": "תכנות בjava למתחילים",
+                    "level": "basic",
+                    "language": "English"
+                },
+                {
+                    "subject": ["Web", "Programming"],
+                    "type": "Course",
+                    "link": "https://www.codecademy.com/learn/introduction-to-javascript",
+                    "title": "כתיבת אתר",
+                    "level": "basic",
+                    "language": "English"
+                },
+                {
+                    "subject": ["Programming", "Apps", "App inventor"], 
+                    "type": "Course",
+                    "link": "https://makerlab.co.il/courses/app-inventor",
+                    "title": "פיתוח אפליקציות בApp inventor",
+                    "level": "basic",
+                    "language": "Hebrew"
+                },
+                {
+                    "subject": ["Hardware", "OS"], 
+                    "type": "Course",
+                    "link": "https://campus.gov.il/course/huji-acd-huji-nand2tetris",
+                    "title": "איך מחשב עובד",
+                    "level": "hard",
+                    "language": "Hebrew"
+                },
+                {
+                    "subject": ["Programming", "C"], 
+                    "type": "Course",
+                    "link": "https://www.codecademy.com/learn/learn-c",
+                    "title": "תכנות בשפת C למתחילים",
+                    "level": "basic",
+                    "language": "Hebrew"
+                },
+                {
+                    "subject": ["C"], 
+                    "type": "Book",
+                    "link": "https://kremlin.cc/k&r.pdf",
+                    "title": "פיתוח בC",
+                    "level": "basic",
+                    "language": "English"
+                },
+                {
+                    "subject": ["C++"], 
+                    "type": "Book",
+                    "link": "The C++ Programming language", 
+                    "title": "פיתוח C++ למתחילים",
+                    "level": "basic",
+                    "language": "English"
+                },
+                {
+                    "subject": ["C++"], 
+                    "type": "Book",
+                    "link": "Effective C++", 
+                    "title": "פיתוח C++ למתקדמים",
+                    "level": "hard",
+                    "language": "English"
+                },
+                {
+                    "subject": ["C++"], 
+                    "type": "Book",
+                    "link": "Modern C++", 
+                    "title": "פיתוח C++ למתקדמים",
+                    "level": "hard",
+                    "language": "English"
+                },
+                {
+                    "subject": ["Programming", "Python"], 
+                    "type": "Book",
+                    "link": "https://data.cyber.org.il/python/python_book.pdf",
+                    "title": "תכנות בשפת פייתון",
+                    "level": "basic",
+                    "language": "Hebrew"
+                },
+                {
+                    "subject": ["Programming", "Python", "Networks"], 
+                    "type": "Book",
+                    "link": "https://data.cyber.org.il/networks/networks.pdf",
+                    "title": "רשתות מחשבים",
+                    "level": "hard",
+                    "language": "Hebrew"
+                },
+                {
+                    "subject": ["Programming", "Java"], 
+                    "type": "Video",
+                    "link": "https://www.youtube.com/watch?v=1t8OwTXsTZU&list=PLEtZq1oDporjA5XzMUbRwbCKWp1bRXdF_",
+                    "title": "מדריך java למתחילים",
+                    "level": "basic",
+                    "language": "Hebrew"
+                },
+                {
+                    "subject": ["Programming", "Python"], 
+                    "type": "Video",
+                    "link": "https://www.youtube.com/watch?v=fNX8tKnozF0&list=PLEtZq1oDporhAPIlKhfRCpcxjpXjSeR2z",
+                    "title": "מדריך פייתון למתחילים",
+                    "level": "basic",
+                    "language": "Hebrew"
+                },
+                {
+                    "subject": ["Programming", "Web"], 
+                    "type": "Video",
+                    "link": "https://www.youtube.com/watch?v=igtLnKReXRg&list=PLEtZq1oDporjXhy-BnUw9gQAnR2VnYlTL",
+                    "title": "מדריך HTML בסיסי",
+                    "level": "basic",
+                    "language": "Hebrew"
+                },
+                {
+                    "subject": ["Programming", "Web"], 
+                    "type": "Video",
+                    "link": "https://www.youtube.com/watch?v=7Ci0uWAw9ls&list=PLEtZq1oDporh4jsGIo3NHiDVWaEYuVtVC",
+                    "title": "מדריך HTML מעמיק",
+                    "level": "hard",
+                    "language": "Hebrew"
+                },
+                {
+                    "subject": ["Programming", "Web"], 
+                    "type": "Video",
+                    "link": "https://www.youtube.com/watch?v=o-lt_Ju7EcA&list=PLEtZq1oDporgAWT3JJdj9ZJb2nY2dvSdb",
+                    "title": "כתיבת אתר בjavascript למתחילים",
+                    "level": "basic",
+                    "language": "Hebrew"
+                },
+                {
+                    "subject": ["Programming", "Web"], 
+                    "type": "Video",
+                    "link": "https://www.youtube.com/watch?v=o-lt_Ju7EcA&list=PLEtZq1oDporgAWT3JJdj9ZJb2nY2dvSdb",
+                    "title": "כתיבת אתר בjavascript למתחילים",
+                    "level": "basic",
+                    "language": "Hebrew"
+                },
+                {
+                    "subject": ["Networks"], 
+                    "type": "Course",
+                    "link": "https://campus.gov.il/course/ariel-acd-computers-communication-he",
+                    "title": "תקשורת מחשבים",
+                    "level": "basic",
+                    "language": "Hebrew"
+                },
+                {
+                    "subject": ["Programming", "Python"], 
+                    "type": "Book",
+                    "link": "https://reshetech.co.il/python-tutorials/all-the-tutorials",
+                    "title": "מדריך פייתון למתחילים",
+                    "level": "basic",
+                    "language": "Hebrew"
+                },
+                {
+                    "subject": ["Programming", "Unity"], 
+                    "type": "Video",
+                    "link": "https://www.youtube.com/watch?v=r5ykyRfDFsM",
+                    "title": "מבוא לפיתוח משחקים ביוניטי",
+                    "level": "basic",
+                    "language": "Hebrew"
+                },
+                {
+                    "subject": ["Linux", "Git"], 
+                    "type": "CTF",
+                    "link": "https://overthewire.org/wargames/bandit/",
+                    "title": "אתגר ללמידת לינוקס",
+                    "level": "basic",
+                    "language": "English"
+                },
+                {
+                    "subject": ["Research"], 
+                    "type": "Playlist",
+                    "link": "https://www.youtube.com/watch?v=o-lt_Ju7EcA&list=PLEtZq1oDporgAWT3JJdj9ZJb2nY2dvSdb",
+                    "title": "עולם מחקר הlow level",
+                    "level": "medium",
+                    "language": "English"
+                }]
+}

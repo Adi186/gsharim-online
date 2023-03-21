@@ -2,6 +2,7 @@ import React from "react";
 import "./contentItem.css";
 
 export function ContentItem({title, subjects, type, link, level, language}){
+    
   return (
     <div className="content-item">
         <span className="title">{title}</span>
