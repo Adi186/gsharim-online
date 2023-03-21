@@ -1,0 +1,9 @@
+.content-search {
+    display: flex;
+    flex-direction: column;
+}
+
+select{
+    padding: 5px;
+    margin: 5px;
+}

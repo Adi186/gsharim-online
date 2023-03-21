@@ -7,8 +7,9 @@ export function ContentItemList({searchParams}){
 
     const [items, setItems] = useState([]);
     useEffect(()=>{
+        console.log("params", searchParams);
         setItems(getContent(searchParams));
-    }, searchParams)
+    }, [searchParams, setItems, getContent])
 
   return (
     <div className="content-item-list">
